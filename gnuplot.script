@@ -1,0 +1,11 @@
+plot \
+"sim0r.m" w line lc rgb "black", \
+"sim0tar0.m" w line lc rgb "red", \
+"sim0tar1.m" w line lc rgb "orange", \
+"sim0tar2.m" w line lc rgb "dark-yellow", \
+"sim0tar3.m" w line lc rgb "green", \
+"sim0tar4.m" w line lc rgb "cyan", \
+"sim0tar5.m" w line lc rgb "blue", \
+"sim0tar6.m" w line lc rgb "purple" 
+pause -1 "Hit any key to continue."
+
